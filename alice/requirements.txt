@@ -1,0 +1,21 @@
+# LLM / Ollama
+ollama==0.3.3
+requests==2.32.3
+
+# 音声認識
+faster-whisper==1.1.1
+pyaudio==0.2.14
+webrtcvad==2.0.10
+numpy==1.26.4
+sounddevice==0.5.1
+
+# 映像取得・画像処理
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+# データベース
+# sqlite3 は Python 標準ライブラリ
+
+# ユーティリティ
+python-dotenv==1.0.1
+loguru==0.7.2
