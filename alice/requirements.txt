@@ -16,6 +16,14 @@ Pillow==10.4.0
 # データベース
 # sqlite3 は Python 標準ライブラリ
 
+# 音声出力 (TTS)
+edge-tts>=6.1.0
+miniaudio>=1.58
+
+# Web検索 (RAG)
+ddgs>=0.1.0
+beautifulsoup4>=4.12.0
+
 # ユーティリティ
 python-dotenv==1.0.1
 loguru==0.7.2
